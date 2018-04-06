@@ -1,0 +1,396 @@
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to find iteratively, B to find recursively: 
+Enter customer name to find: 
+Customer  found. Phone Number: 
+293-6122  
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to find iteratively, B to find recursively: 
+Enter customer name to find: 
+Customer  found. Phone Number: 
+293-6122  
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to find iteratively, B to find recursively: 
+Enter customer name to find: 
+Customer not found.
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to find iteratively, B to find recursively: 
+Enter customer name to find: 
+Customer not found.
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to start at Root, B to start anywhere else: 
+Enter the name of the customer to start at: 
+
+Traversing Tree in Inorder... 
+Copeland  
+291-7890  
+Federbush 
+295-1601  
+Owens     
+291-1864  
+Ryba      
+293-6122  
+Seddon    
+295-1882  
+Sparks    
+584-3622  
+Voorhees  
+294-8075  
+Ajose     
+295-1492  
+
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to start at Root, B to start anywhere else: 
+Traversing Tree in Inorder... 
+Ajose     
+295-1492  
+Copeland  
+291-7890  
+Federbush 
+295-1601  
+Gunn      
+294-1882  
+Owens     
+291-1864  
+Ryba      
+293-6122  
+Seddon    
+295-1882  
+Sparks    
+584-3622  
+Vickers   
+294-1568  
+Voorhees  
+294-8075  
+Zulfiquar 
+295-6622  
+
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter the name of the customer to delete:
+Deleting customer...
+Customer deleted.
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter the name of the customer to delete:
+Deleting customer...
+Customer deleted.
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter the name of the customer to delete:
+Did not find customer. Exiting to main menu...
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter customer name: 
+Enter customer phone number: 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to start at Root, B to start anywhere else: 
+Traversing Tree in Inorder... 
+Federbush 
+295-1601  
+Gonzales  
+295-1882  
+Gunn      
+294-1882  
+Novak     
+294-1666  
+Owens     
+291-1864  
+Ryba      
+293-6122  
+Seddon    
+295-1882  
+Sparks    
+584-3622  
+Vickers   
+294-1568  
+Voorhees  
+294-8075  
+Zulfiquar 
+295-6622  
+
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Printing Tree in reverse inorder...
+Zulfiquar 
+Voorhees  
+Vickers   
+Sparks    
+Seddon    
+Ryba      
+Owens     
+Novak     
+Gunn      
+Gonzales  
+Federbush 
+
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Printing Tree in preorder...
+Owens     
+Federbush 
+Gunn      
+Gonzales  
+Novak     
+Ryba      
+Seddon    
+Voorhees  
+Sparks    
+Vickers   
+Zulfiquar 
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to use Iterative, B to use recursive:
+Traversing in postorder iterative: 
+Gonzales  
+Novak     
+Gunn      
+Federbush 
+Vickers   
+Sparks    
+Zulfiquar 
+Voorhees  
+Seddon    
+Ryba      
+Owens     
+
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
+Enter A to use Iterative, B to use recursive:
+Traversing in postorder recursive: 
+Gonzales  
+Novak     
+Gunn      
+Federbush 
+Vickers   
+Sparks    
+Zulfiquar 
+Voorhees  
+Seddon    
+Ryba      
+Owens     
+
+Enter 0 to exit,
+Enter 1 to Insert a Customer,
+Enter 2 to find a customer and print their phone number,
+Enter 3 to traverse tree in Inorder,
+Enter 4 to delete a Customer,
+Enter 5 to traverse tree in reverse Inorder,
+Enter 6 to traverse tree in preorder,
+Enter 7 to traverse tree in postorder:
